@@ -197,5 +197,3 @@ if(gameOver)
   goto label5;
  }
 }
- return 0;
-}
